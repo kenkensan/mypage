@@ -33,3 +33,7 @@
 1. レベル 0
 
 ほげ[ふが](https://github.com/)ぴよ
+
+hoge[hoge](./hage.md)hoge
+
+huga[huga](./huga/huga.md)huga
